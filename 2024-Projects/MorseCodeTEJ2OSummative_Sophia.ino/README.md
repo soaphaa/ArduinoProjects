@@ -21,9 +21,10 @@ My Arduino final project for TEJ2O
 * Wires
 ## Pictorial & Circuit Diagram: 
 <br>
-![Pictorial Diagram](https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectTinkercadDiagram.PNG?raw=true)
+<img src="https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectTinkercadDiagram.PNG?raw=true" alt="Pictorial Diagram" width="500">
+
 <br>
-![Circuit Diagram](https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectTinkercadDiagram.PNG?raw=true)
+<img src="https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectCircuitDiagram.PNG?raw=true" alt="Circuit Diagram" width="500">
 
 ## Project description:
 
