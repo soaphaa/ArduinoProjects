@@ -1,11 +1,11 @@
 # Morse code translator and minigame
+My Arduino final project for TEJ2O  
+<br>
   <img src="https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectImage.PNG" 
        alt="Morse Code Project" 
        width="400" 
        style="vertical-align: middle; display: inline;">
 <br>       
-My Arduino final project for TEJ2O  
-
 ## Parts needed: 
 * Arduino UNO board
 * LCD screen
