@@ -1,6 +1,6 @@
 # Morse code translator and minigame
 My arduino final project for TEJ2O
-![Alt text](https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectImage.PNG)
+<img src="https://github.com/soaphaa/ArduinoProjects/blob/main/2024-Projects/MorseCodeTEJ2OSummative_Sophia.ino/images/morseCodeProjectImage.PNG" alt="Morse Code Project" width="400">
 
 ## Parts needed: 
 * Arduino UNO board
