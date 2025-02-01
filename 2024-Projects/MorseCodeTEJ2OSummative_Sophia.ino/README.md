@@ -3,6 +3,7 @@
        alt="Morse Code Project" 
        width="400" 
        style="vertical-align: middle; display: inline;">
+<br>       
 My Arduino final project for TEJ2O  
 
 ## Parts needed: 
